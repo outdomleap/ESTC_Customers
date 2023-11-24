@@ -5,17 +5,22 @@ MAHOB | 508295356 | eSAngkor@2023  | SERVER | 192.168.0.20 / 192.168.1.18 | 192.
 	2: Kitchen Printer | 192.168.0.11
 MAHOB | 774775379 | eSAngkor@2023 | Order Station | DHCP-IP |
 
+--------------------------*******-----------------------
 
 Hotstone SR | 511170658 | eSAngkor@2023 | SERVER | 192.168.0.21 | 192.168.0.1 
 ---- Printer : 
 	1: Cashier Printer | USB 
 	2: Kitchen Printer | 192.168.0.18
+--------------------------*******-----------------------
 
 LumOrng Garden | 983489466 | eSAngkor@2023 | SERVER | DHCP-IP |
 ---- Printer: 
 	1: Cashier Printer | USB
 	2: Kitchen Printer | 192.168.1.19
+--------------------------*******-----------------------
 
 LumOrng Table | 465010675
 ---- Printer:
 	1:
+
+--------------------------*******-----------------------
