@@ -1,0 +1,11 @@
+*** Mahob *** 
+MAHOB | 508295356 | eSAngkor@2023  | SERVER | 192.168.0.20 / 192.168.1.18 | 192.168.0.1 / 192.168.1.1
+---- Printer : 
+	1: Cashier Printer | USB
+	2: Kitchen Printer | 192.168.0.11
+Hotstone SR | 511170658 | eSAngkor@2023 | SERVER | 192.168.0.21 | 192.168.0.1 
+---- Printer : 
+	1: Cashier Printer | USB 
+	2: Kitchen Printer | 192.168.0.18
+
+
